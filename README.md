@@ -1,1 +1,2 @@
-# Aplikasi-Minuman-Boba-dan-Food
+Nama Aplikasi = Aplikasi Minuman Boba dan Food
+
