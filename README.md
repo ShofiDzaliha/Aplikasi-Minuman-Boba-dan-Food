@@ -1,6 +1,6 @@
-Nama Mahasiswa Pembuat: Muhammad Jefry Al Buchory
-NPM: 14022400069
-Mata Kuliah: Pemrograman Mobile
+- Nama Mahasiswa Pembuat: Muhammad Jefry Al Buchory
+- NPM: 14022400069
+- Mata Kuliah: Pemrograman Mobile
 
 ----
 Nama Aplikasi = Aplikasi Minuman Boba dan Food
