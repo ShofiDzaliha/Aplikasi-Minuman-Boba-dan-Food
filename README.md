@@ -23,7 +23,7 @@ Menampilkan total pembayaran, Animasi icon sukses, Tombol Kembali ke Home
 Cara Menjalankan = Pastikan flutter SDK sudah terinstall, lalu buka folder project menggunakan vscode dan jalankan perintah "flutter run" di terminal. Setelah proses dan ada pilihan di terminal klik angka 2 atau 3 untuk menampilan output program di chrome atau edge.
 
 Screenshoot halaman utama : 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78a98a9f-001a-417a-a5f8-3626ebfd37c2" />
+<img width="1913" height="879" alt="image" src="https://github.com/user-attachments/assets/1169e3d9-bb9f-47ad-b0e8-7d245188683e" />
 
 Rencana Pengembangan fitur :
 1️⃣ Sistem Login & Akun Pengguna
