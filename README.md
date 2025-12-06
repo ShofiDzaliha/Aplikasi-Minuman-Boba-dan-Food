@@ -62,6 +62,7 @@ Tujuan: jika ingin menambah fitur pengiriman. User pilih titik lokasi, Perhitung
 Menambah bahasa Inggris / Indonesia.
 1️⃣3️⃣ UI/UX Material Modern Anda
 Biar terlihat aplikasi premium: Animasi halus, Bilah navigasi bawah, Kartu 3D, Desain lebih profesional
+
 KESIMPULAN RENCANA PENGEMBANGAN
 Aplikasi ini masih dalam tahap pemesanan dasar , namun memiliki potensi untuk dikembangkan menjadi aplikasi pemesanan profesional dengan fitur:
 ✔ Backend dan database
